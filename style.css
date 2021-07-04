@@ -16,7 +16,7 @@ h1{
 .serve{
     color: darkcyan;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 150px;
 }
@@ -43,4 +43,7 @@ section{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+#txtalin{
+    text-align: center;
 }
